@@ -1,2 +1,0 @@
-System.Console.WriteLine("HelloWorld!");
-System.Console.Read();
